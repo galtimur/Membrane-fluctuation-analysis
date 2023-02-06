@@ -2,7 +2,7 @@
 
 import numpy as np
 from MC_2D_softening_run import run_MC_2D
-from fluctuation_analysis_2D_continuos import analyze_2D_fluct, bin_average
+from fluctuation_analysis_2D_continuous import analyze_2D_fluct, bin_average
 import matplotlib.pyplot as plt
 
 #%%
