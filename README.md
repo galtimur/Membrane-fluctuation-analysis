@@ -10,10 +10,10 @@ Disclaimer: the work is in progress, thefore the project is not in a final user-
 
 ### Files:
 
--Fluct_analysis_production.py - main programm that relies on the descritization of the space, deviding it on the square cells
--MC_2D_softening_run.py - module for running the Monte Carlo simulations
--fluctuation_analysis_2D.py - analysis of the directors fluctuations by means of Fourier transform
--fluctuation_analysis_2D_continuous.py - analysis of the directors fluctuations by means of continuous Fourier transform
--MC_2D_continuous_production.py - main programm that performs continuous Fourier transform NOT relying on the descritization of the space
--MC_2D_production.py - main program for the analysis of the Monte Carlo simulation results. 
--CG_derectors_to_cells.py - module for transfroming molecular dynamics simulations to the values of the directors.
+- Fluct_analysis_production.py - main programm that relies on the descritization of the space, deviding it on the square cells
+- MC_2D_softening_run.py - module for running the Monte Carlo simulations
+- fluctuation_analysis_2D.py - analysis of the directors fluctuations by means of Fourier transform
+- fluctuation_analysis_2D_continuous.py - analysis of the directors fluctuations by means of continuous Fourier transform
+- MC_2D_continuous_production.py - main programm that performs continuous Fourier transform NOT relying on the descritization of the space
+- MC_2D_production.py - main program for the analysis of the Monte Carlo simulation results. 
+- CG_derectors_to_cells.py - module for transfroming molecular dynamics simulations to the values of the directors.
